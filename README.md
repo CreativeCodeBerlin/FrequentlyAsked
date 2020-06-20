@@ -128,17 +128,17 @@ Kadenze
 * ...
 
 ## Inspiration
-* (Creative Applications)[http://www.creativeapplications.net/]
-* (Open Processing)[https://www.openprocessing.org/]
-* (Generative Hut)[https://www.generativehut.com/]
+* [Creative Applications](http://www.creativeapplications.net/)
+* [Open Processing](https://www.openprocessing.org/)
+* [Generative Hut](https://www.generativehut.com/)
 
 ## Communities
-* (Creative Code Berlin)[http://creativecode.berlin/]
-* (School of Machines, Making, and Make-Believe)[http://schoolofma.org/]
-* (Choreographic Coding Lab)[http://choreographiccoding.org/]
-* (School For Poetic Computation)[https://sfpc.io/recoded/]
+* [Creative Code Berlin](http://creativecode.berlin/)
+* [School of Machines, Making, and Make-Believe](http://schoolofma.org/)
+* [Choreographic Coding Lab](http://choreographiccoding.org/)
+* [School For Poetic Computation](https://sfpc.io/recoded/)
 
-# Technologies
+# Technologies  
 
 ## Languages/Toolkits/Frameworks
 
