@@ -198,7 +198,7 @@ Licensing: Free and Open Source.
 
 ## Software
 
-**[TouchOSC)(https://hexler.net/products/touchosc):** “A fully modular control surface that runs on all iOS and Android devices. Send and receive Open Sound Control or MIDI messages over Wi-Fi to control all compatible software and hardware.”
+**[TouchOSC](https://hexler.net/products/touchosc):** “A fully modular control surface that runs on all iOS and Android devices. Send and receive Open Sound Control or MIDI messages over Wi-Fi to control all compatible software and hardware.”
 
 **[Vezér](https://imimot.com/vezer/):** “Vezér enables control and synchronisation of any MIDI, OSC or DMX enabled environments - realtime video softwares, lighting rigs, etc. - through the use of timeline based automations.“
 Licensing: Free demo. Paid licence.
