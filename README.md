@@ -12,8 +12,8 @@ Getting started in any new field can feel overwhelming. You don't know what is p
 
 ## Frequently Asked Questions
 
-“Which language/tool should I learn?”
-This depends a lot on what you want to do, but it also doesn't matter as much as most people think. The basic principles of programming are transferable between most languages, and you'll likely try a few different tools before settling on the one that works for you. If you're not sure how to decide and you just want to start somewhere, (p5.js)[https://p5js.org] is a great choice. For younger artists, (Scratch)[https://scratch.mit.edu/] is a perfect way to get into coding.
+### “Which language/tool should I learn?”
+This depends a lot on what you want to do, but it also doesn't matter as much as most people think. The basic principles of programming are transferable between most languages, and you'll likely try a few different tools before settling on the one that works for you. If you're not sure how to decide and you just want to start somewhere, [p5.js](https://p5js.org) is a great choice. For younger artists, [Scratch](https://scratch.mit.edu/) is a perfect way to get into coding.
 
 ### “I want to learn shaders, what should I do?"
 For an easy way in, try (The Book of Shaders)[https://thebookofshaders.com] by Patricio Gonzalez Vivo and Jen Lowe. For inspiration, have a look at what people make on (Shadertoy)[https://www.shadertoy.com/].
