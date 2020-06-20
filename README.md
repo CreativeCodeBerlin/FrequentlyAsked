@@ -3,7 +3,11 @@
 
 Welcome!
 
+# What is Creative Coding?
+
 Creative Coding is a loosely defined term used to describe a wide range of artistic practices that use computer code as a medium. Creative Code typically distinguishes itself from regular coding by the fact that it doesn't follow pre-defined specifications, and is aimed at expressing ideas and concepts rather than solving specific problems for a user.
+
+# Why this document?
 
 Getting started in any new field can feel overwhelming. You don't know what is possible or even what terms to look up online. This page is meant to help beginners by offering some basic context and answer some commonly asked questions. It is not meant to be a comprehensive list of tools or resources, but a starting point for your creative code journey.
 
