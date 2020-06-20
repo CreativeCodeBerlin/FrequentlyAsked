@@ -16,12 +16,12 @@ Getting started in any new field can feel overwhelming. You don't know what is p
 This depends a lot on what you want to do, but it also doesn't matter as much as most people think. The basic principles of programming are transferable between most languages, and you'll likely try a few different tools before settling on the one that works for you. If you're not sure how to decide and you just want to start somewhere, [p5.js](https://p5js.org) is a great choice. For younger artists, [Scratch](https://scratch.mit.edu/) is a perfect way to get into coding.
 
 ### “I want to learn shaders, what should I do?"
-For an easy way in, try (The Book of Shaders)[https://thebookofshaders.com] by Patricio Gonzalez Vivo and Jen Lowe. For inspiration, have a look at what people make on (Shadertoy)[https://www.shadertoy.com/].
+For an easy way in, try [The Book of Shaders](https://thebookofshaders.com) by Patricio Gonzalez Vivo and Jen Lowe. For inspiration, have a look at what people make on [Shadertoy](https://www.shadertoy.com/).
 Keywords: HLSL, GLSL, RayMarching, Metal(iOS)
 Tools: Shadertoy, openFrameworks
 
 ### “How can I use music or my microphone to make things move on screen?”
-One fun way to get into creative coding is to make something audio-reactive. For example (bouncing a ball)[https://p5js.org/examples/sound-mic-input.html] based on the volume of your microphone input.
+One fun way to get into creative coding is to make something audio-reactive. For example [bouncing a ball](https://p5js.org/examples/sound-mic-input.html) based on the volume of your microphone input.
 Keywords: Audio-reactive visuals, Sound-visualisation, FFT
 
 ### ”I want to make things that people can interact with in a space”
@@ -81,18 +81,20 @@ Computational Drawing - Carl Lostritto
 Generative Design: http://www.generative-gestaltung.de/
 
 ### Coding sandboxes
-shadertoy
-OpenProcessing https://www.openprocessing.org/
-p5.js Editor https://editor.p5js.org/
-Turtletoy: https://turtletoy.net/
-glitch.com https://glitch.com
+* shadertoy
+* OpenProcessing https://www.openprocessing.org/
+* p5.js Editor https://editor.p5js.org/
+* Turtletoy: https://turtletoy.net/
+* glitch.com https://glitch.com
 
 ### Courses
-School for Poetic Computation (SFPC): NYC based but they are offering courses online
+**School for Poetic Computation (SFPC):** NYC based but they are offering courses online
 Website: https://sfpc.io/
-School of Machines, Making, and Make-Believe: Berlin based
+
+**School of Machines, Making, and Make-Believe:** Berlin based
 Website: http://schoolofma.org/
-The Node Institute: Berlin based
+
+**The Node Institute:** Berlin based
 Website: https://thenodeinstitute.org/
 Kadenze
 
@@ -159,31 +161,31 @@ Processing.py: Python Mode for Processing
 p5: provides high level drawing functionality to help you quickly create simulations and interactive art. It combines the core ideas of Processing with Python readability
 Turtle Graphics: Originally designed for teaching coding to children, a fun library for drawing
 
-**(A-Frame)[https://aframe.io/]:** easy 3D+VR [TBD]
+**[A-Frame](https://aframe.io/):** easy 3D+VR [TBD]
 
 
-**(Unity)[https://unity.com/]:** [TBD]
+**[Unity](https://unity.com/):** [TBD]
 Licensing: Free for non-commercial or commercial use up to $100.000 revenue per year.
 
-**(Supercollider)[https://supercollider.github.io/]:** “SuperCollider is a platform for audio synthesis and algorithmic composition, used by musicians, artists, and researchers working with sound.“
+**[Supercollider](https://supercollider.github.io/):** “SuperCollider is a platform for audio synthesis and algorithmic composition, used by musicians, artists, and researchers working with sound.“
 Platform: Windows, macOS, and Linux.
 Licensing: Free and Open Source.
-  * **(FoxDot)[https://foxdot.org/]:** “Live coding with Python and SuperCollider”
-  * **(TidalCycles)[https://tidalcycles.org/]:** "live coding environment designed for musical improvisation and composition.”
+  * **[FoxDot](https://foxdot.org/):** “Live coding with Python and SuperCollider”
+  * **[TidalCycles](https://tidalcycles.org/):** "live coding environment designed for musical improvisation and composition.”
 
 
-**(TouchDesigner)[https://derivative.ca/]:** a node based visual programming language for real time interactive multimedia content. Create performances, installations, and fixed media works.
+**[TouchDesigner](https://derivative.ca/):** a node based visual programming language for real time interactive multimedia content. Create performances, installations, and fixed media works.
 License: Free for personal use or learning.
 
 **OpenRNDR:** [TBD]
 
-**(VVVV)[https://vvvv.org/]:** a hybrid visual/textual live-programming environment for easy prototyping and development. It is designed to facilitate the handling of large media environments with physical interfaces, real-time motion graphics, audio and video that can interact with many users simultaneously.
+**[VVVV](https://vvvv.org/):** a hybrid visual/textual live-programming environment for easy prototyping and development. It is designed to facilitate the handling of large media environments with physical interfaces, real-time motion graphics, audio and video that can interact with many users simultaneously.
 License: Free for evaluation and non-commercial use
 
-**(Thi.ng)[https://thi.ng/]:** “An open source collection of 20+ computational design tools for Clojure & Clojurescript. The libraries address concepts related to many displines, from animation, generative design, data analysis / validation / visualization with SVG and WebGL, interactive installations, 2d / 3d geometry, digital fabrication, voxel modeling, rendering, linked data graphs & querying, encryption, OpenCL computing etc.“
+**[Thi.ng](https://thi.ng/):** “An open source collection of 20+ computational design tools for Clojure & Clojurescript. The libraries address concepts related to many displines, from animation, generative design, data analysis / validation / visualization with SVG and WebGL, interactive installations, 2d / 3d geometry, digital fabrication, voxel modeling, rendering, linked data graphs & querying, encryption, OpenCL computing etc.“
 Licensing: Free and Open Source.
 
-**(nannou)[https://github.com/nannou-org/nannou]:** “An open-source creative-coding toolkit for Rust.”
+**[nannou](https://github.com/nannou-org/nannou):** “An open-source creative-coding toolkit for Rust.”
 
 ### WEBGL & Shaders
 
@@ -194,21 +196,21 @@ ml5.js https://ml5js.org/
 
 ### Software
 
-**(TouchOSC)[https://hexler.net/products/touchosc]:** “A fully modular control surface that runs on all iOS and Android devices. Send and receive Open Sound Control or MIDI messages over Wi-Fi to control all compatible software and hardware.”
+**[TouchOSC)(https://hexler.net/products/touchosc):** “A fully modular control surface that runs on all iOS and Android devices. Send and receive Open Sound Control or MIDI messages over Wi-Fi to control all compatible software and hardware.”
 
-**(Vezér)[https://imimot.com/vezer/]:** “Vezér enables control and synchronisation of any MIDI, OSC or DMX enabled environments - realtime video softwares, lighting rigs, etc. - through the use of timeline based automations.“
+**[Vezér](https://imimot.com/vezer/):** “Vezér enables control and synchronisation of any MIDI, OSC or DMX enabled environments - realtime video softwares, lighting rigs, etc. - through the use of timeline based automations.“
 Licensing: Free demo. Paid licence.
 
-**(Chataigne)[http://benjamin.kuperberg.fr/chataigne/en]:**“Artist-friendly Modular Machine for Art and Technology”
+**[Chataigne](http://benjamin.kuperberg.fr/chataigne/en):**“Artist-friendly Modular Machine for Art and Technology”
 
-**(Phonk)[http://phonk.io/]:** ”Self-contained Creative scripting toolbox for new and old Android devices”
+**[Phonk](http://phonk.io/):** ”Self-contained Creative scripting toolbox for new and old Android devices”
 
-**(Tool2)[http://tooll.io/]**
+**[Tool2](http://tooll.io/)**
 
-**(Wekinator)[http://www.wekinator.org/]:** “The Wekinator allows anyone to use machine learning to build new musical instruments, gestural game controllers, computer vision or computer listening systems, and more. The Wekinator allows users to build new interactive systems by demonstrating human actions and computer responses, instead of writing programming code.”
+**[Wekinator](http://www.wekinator.org/):** “The Wekinator allows anyone to use machine learning to build new musical instruments, gestural game controllers, computer vision or computer listening systems, and more. The Wekinator allows users to build new interactive systems by demonstrating human actions and computer responses, instead of writing programming code.”
 Licensing: Free Open-Source
 
-**(OSCulator)[https://osculator.net/]:** “OSCulator is the missing link between your controllers and your music or video software. For example, you can use your Nintendo Wiimote or Apple iPhone with Ableton Live or any MIDI compatible application, with ease.“
+**[OSCulator](https://osculator.net/):** “OSCulator is the missing link between your controllers and your music or video software. For example, you can use your Nintendo Wiimote or Apple iPhone with Ableton Live or any MIDI compatible application, with ease.“
 
 ### Hardware
 
@@ -238,6 +240,6 @@ Sometimes just the one computer is not enough and you want to connect things tog
 
 ## Thanks!
 
-This list is created and maintained by the (Creative Code Berlin)[http://creativecode.berlin/] team as resource for people coming to our bi-monthlymeetups. We hope it can be helpful to others as well :)
+This list is created and maintained by the [Creative Code Berlin](http://creativecode.berlin/) team as resource for people coming to our bi-monthlymeetups. We hope it can be helpful to others as well :)
 
-If you are looking for a more comprehensive list, check out this (curated list of awesome creative coding resources)[https://github.com/terkelg/awesome-creative-coding].
+If you are looking for a more comprehensive list, check out this [curated list of awesome creative coding resources](https://github.com/terkelg/awesome-creative-coding).
