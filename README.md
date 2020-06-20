@@ -71,8 +71,8 @@ Tools: Rhino3D, Blender, Fusion360
 # Resources
 
 ## Learning websites
-Funprogramming: https://funprogramming.org/
-Machine Learning for Artists: https://ml4a.github.io/guides/
+* Funprogramming: https://funprogramming.org/
+* Machine Learning for Artists: https://ml4a.github.io/guides/
 
 ## Video tutorials
 The Coding Train https://www.youtube.com/user/shiffman
@@ -191,9 +191,9 @@ Licensing: Free and Open Source.
 
 ## WEBGL & Shaders
 
-Machine Learning
-Runway ML https://runwayml.com/
-ml5.js https://ml5js.org/
+## Machine Learning
+* Runway ML https://runwayml.com/
+* ml5.js https://ml5js.org/
 
 
 ## Software
