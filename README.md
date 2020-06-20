@@ -1,8 +1,6 @@
 
 
 
-# So you want to learn Creative Coding
-
 Welcome!
 
 Creative Coding is a loosely defined term used to describe a wide range of artistic practices that use computer code as a medium. Creative Code typically distinguishes itself from regular coding by the fact that it doesn't follow pre-defined specifications, and is aimed at expressing ideas and concepts rather than solving specific problems for a user.
@@ -10,7 +8,7 @@ Creative Coding is a loosely defined term used to describe a wide range of artis
 Getting started in any new field can feel overwhelming. You don't know what is possible or even what terms to look up online. This page is meant to help beginners by offering some basic context and answer some commonly asked questions. It is not meant to be a comprehensive list of tools or resources, but a starting point for your creative code journey.
 
 
-## Frequently Asked Questions
+# Frequently Asked Questions
 
 **“Which language/tool should I learn?”**  
 This depends a lot on what you want to do, but it also doesn't matter as much as most people think. The basic principles of programming are transferable between most languages, and you'll likely try a few different tools before settling on the one that works for you. If you're not sure how to decide and you just want to start somewhere, [p5.js](https://p5js.org) is a great choice. For younger artists, [Scratch](https://scratch.mit.edu/) is a perfect way to get into coding.
@@ -66,28 +64,28 @@ Keywords: 3D printing, Additive Manufacturing, CNC, Digital Fabrication
 Tools: Rhino3D, Blender, Fusion360
 
 
-## Resources
+# Resources
 
-### Learning websites
+## Learning websites
 Funprogramming: https://funprogramming.org/
 Machine Learning for Artists: https://ml4a.github.io/guides/
 
-### Video tutorials
+## Video tutorials
 The Coding Train https://www.youtube.com/user/shiffman
 
-### Books & Theory
+## Books & Theory
 The Nature of Code https://natureofcode.com/
 Computational Drawing - Carl Lostritto
 Generative Design: http://www.generative-gestaltung.de/
 
-### Coding sandboxes
+## Coding sandboxes
 * shadertoy
 * OpenProcessing https://www.openprocessing.org/
 * p5.js Editor https://editor.p5js.org/
 * Turtletoy: https://turtletoy.net/
 * glitch.com https://glitch.com
 
-### Courses
+## Courses
 **School for Poetic Computation (SFPC):** NYC based but they are offering courses online
 Website: https://sfpc.io/
 
@@ -98,12 +96,12 @@ Website: http://schoolofma.org/
 Website: https://thenodeinstitute.org/
 Kadenze
 
-### Places
+## Places
 * (HappyLab)[https://www.happylab.at/de_ber/home
 ]: an open workshop with laser cutter, 3D printer, cnc milling machine, cutting plotter and electronics.
 * (State Studio)[https://state-studio.com/]
 
-### Festivals & events
+## Festivals & events
 * Retune Festival & Retune Studio visits
 * Mapping
 * Kikk
@@ -114,7 +112,7 @@ Kadenze
 * Sonar +D
 * ...
 
-### Creative Technology Studios / Artists (Berlin)
+## Creative Technology Studios / Artists (Berlin)
 * Niklas Roy
 * Kling Klang Klong
 * Waltz Binaire
@@ -125,20 +123,20 @@ Kadenze
 * So Kanno
 * ...
 
-### Inspiration
+## Inspiration
 * (Creative Applications)[http://www.creativeapplications.net/]
 * (Open Processing)[https://www.openprocessing.org/]
 * (Generative Hut)[https://www.generativehut.com/]
 
-### Communities
+## Communities
 * (Creative Code Berlin)[http://creativecode.berlin/]
 * (School of Machines, Making, and Make-Believe)[http://schoolofma.org/]
 * (Choreographic Coding Lab)[http://choreographiccoding.org/]
 * (School For Poetic Computation)[https://sfpc.io/recoded/]
 
-## Technologies
+# Technologies
 
-### Languages/Toolkits/Frameworks
+## Languages/Toolkits/Frameworks
 
 **Scratch:**
 
@@ -187,14 +185,14 @@ Licensing: Free and Open Source.
 
 **[nannou](https://github.com/nannou-org/nannou):** “An open-source creative-coding toolkit for Rust.”
 
-### WEBGL & Shaders
+## WEBGL & Shaders
 
 Machine Learning
 Runway ML https://runwayml.com/
 ml5.js https://ml5js.org/
 
 
-### Software
+## Software
 
 **[TouchOSC)(https://hexler.net/products/touchosc):** “A fully modular control surface that runs on all iOS and Android devices. Send and receive Open Sound Control or MIDI messages over Wi-Fi to control all compatible software and hardware.”
 
@@ -212,14 +210,14 @@ Licensing: Free Open-Source
 
 **[OSCulator](https://osculator.net/):** “OSCulator is the missing link between your controllers and your music or video software. For example, you can use your Nintendo Wiimote or Apple iPhone with Ableton Live or any MIDI compatible application, with ease.“
 
-### Hardware
+## Hardware
 
 **Arduino:** [TBD]
 
 **Depth cameras:** [TBD]
 
 
-### Protocols (aka: connecting stuff together)
+## Protocols (aka: connecting stuff together)
 
 Sometimes just the one computer is not enough and you want to connect things together. Whether it's a musical instrument, a fog machine, or your smartphone, there are many ways to get your device to play nice together. Here is a selection.
 
@@ -238,7 +236,7 @@ Sometimes just the one computer is not enough and you want to connect things tog
 **UDP:** [TBD]
 
 
-## Thanks!
+# Thanks!
 
 This list is created and maintained by the [Creative Code Berlin](http://creativecode.berlin/) team as resource for people coming to our bi-monthlymeetups. We hope it can be helpful to others as well :)
 
