@@ -12,56 +12,56 @@ Getting started in any new field can feel overwhelming. You don't know what is p
 
 ## Frequently Asked Questions
 
-**“Which language/tool should I learn?”**
+**“Which language/tool should I learn?”**  
 This depends a lot on what you want to do, but it also doesn't matter as much as most people think. The basic principles of programming are transferable between most languages, and you'll likely try a few different tools before settling on the one that works for you. If you're not sure how to decide and you just want to start somewhere, [p5.js](https://p5js.org) is a great choice. For younger artists, [Scratch](https://scratch.mit.edu/) is a perfect way to get into coding.
 
-**“I want to learn shaders, what should I do?"**
+**“I want to learn shaders, what should I do?"**  
 For an easy way in, try [The Book of Shaders](https://thebookofshaders.com) by Patricio Gonzalez Vivo and Jen Lowe. For inspiration, have a look at what people make on [Shadertoy](https://www.shadertoy.com/).
 Keywords: HLSL, GLSL, RayMarching, Metal(iOS)
 Tools: Shadertoy, openFrameworks
 
-**“How can I use music or my microphone to make things move on screen?”**
+**“How can I use music or my microphone to make things move on screen?”**  
 One fun way to get into creative coding is to make something audio-reactive. For example [bouncing a ball](https://p5js.org/examples/sound-mic-input.html) based on the volume of your microphone input.
 Keywords: Audio-reactive visuals, Sound-visualisation, FFT
 
-**”I want to make things that people can interact with in a space”**
+**”I want to make things that people can interact with in a space”**  
 Keywords: Interactive installations, Depth sensor
 Tools: Kinect, Posenet, RGBD camera, OpenCV
 
-**”I want to create visuals with code”**
+**”I want to create visuals with code”**  
 Keywords: Generative art, Generative Design, Procedural generation
 Tools: Hydra, MarchingJS, Processing, p5js, OpenFrameworks, Cinder
 
-**“I want to create music with code“**
+**“I want to create music with code“**  
 Keywords: audio synthesis, algorithmic composition, algorave,
 Tools: Supercollider, SonicPi, TidalCycles, Tone.js
 
-**“I want to build/use a drawing machine“**
+**“I want to build/use a drawing machine“**  
 Keywords: plotter, pen plotter, vinyl cutter, Vector Graphics (SVG)
 Tools: AxiDraw, Cricut, Silhouette
 
-**“I want to make art using Artificial Intelligence“**
+**“I want to make art using Artificial Intelligence“**  
 Keywords: Machine Learning, NeuralNetworks, GANs, StyleTransfer, Pix2Pix
 Tools: RunwayML, ml5.js
 
-**“I hate math. Don't I need to be good at math?"**
+**“I hate math. Don't I need to be good at math?"**  
 
-**“Do I really need to write code?”**
+**“Do I really need to write code?”**  
 Actually no, you can use visual programming too.
 Keywords: Visual programming, Node based programming, Blockly
 Tools: Unreal Blueprint, VVVV, Nodes.io, Cables
 
-**“How can I make creative code stuff on my smartphone?”**
+**“How can I make creative code stuff on my smartphone?”**  
 Tools: phonk, touchOSC, Shade, Spark AR
 
-**“How can I make creative things in Augmented Reality“**
+**“How can I make creative things in Augmented Reality“**  
 Keywords: MixedReality, WebXR,
 Tools: ARjs, ThreeJS, SparkAR (instagram), FaceMesh, Bodypix, ARkit, ARCore, ARFoundation
 
-**“I want to use computer vision“**
+**“I want to use computer vision“**  
 Tools: openCV, ml5.js, posenet,
 
-**"I want to build physical objects/products"**
+**"I want to build physical objects/products"**  
 Keywords: 3D printing, Additive Manufacturing, CNC, Digital Fabrication
 Tools: Rhino3D, Blender, Fusion360
 
