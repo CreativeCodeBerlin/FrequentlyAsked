@@ -19,8 +19,8 @@ This depends a lot on what you want to do, but it also doesn't matter as much as
 
 **“I want to learn shaders, what should I do?"**  
 For an easy way in, try [The Book of Shaders](https://thebookofshaders.com) by Patricio Gonzalez Vivo and Jen Lowe. For inspiration, have a look at what people make on [Shadertoy](https://www.shadertoy.com/).  
-*Keywords: HLSL, GLSL, RayMarching, Metal(iOS)*  
-*Tools: Shadertoy, openFrameworks*  
+**Keywords:** HLSL, GLSL, RayMarching, Metal(iOS)  
+**Tools:** Shadertoy, openFrameworks  
 
 **“How can I use music or my microphone to make things move on screen?”**  
 One fun way to get into creative coding is to make something audio-reactive. For example [bouncing a ball](https://p5js.org/examples/sound-mic-input.html) based on the volume of your microphone input.
