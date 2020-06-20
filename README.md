@@ -74,9 +74,9 @@ Machine Learning for Artists: https://ml4a.github.io/guides/
 The Coding Train https://www.youtube.com/user/shiffman
 
 ## Books & Theory
-The Nature of Code https://natureofcode.com/
-Computational Drawing - Carl Lostritto
-Generative Design: http://www.generative-gestaltung.de/
+* The Nature of Code https://natureofcode.com/
+* Computational Drawing - Carl Lostritto
+* Generative Design: http://www.generative-gestaltung.de/
 
 ## Coding sandboxes
 * shadertoy
@@ -97,9 +97,9 @@ Website: https://thenodeinstitute.org/
 Kadenze
 
 ## Places
-* (HappyLab)[https://www.happylab.at/de_ber/home
-]: an open workshop with laser cutter, 3D printer, cnc milling machine, cutting plotter and electronics.
-* (State Studio)[https://state-studio.com/]
+* [HappyLab](https://www.happylab.at/de_ber/home
+): an open workshop with laser cutter, 3D printer, cnc milling machine, cutting plotter and electronics.
+* [State Studio](https://state-studio.com/)
 
 ## Festivals & events
 * Retune Festival & Retune Studio visits
